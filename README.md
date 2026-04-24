@@ -1,7 +1,18 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# HealthyChef - Invoice Management System
+A full-stack MERN application to manage quotations, invoices, and real-time stock updates.
 
+## Features
+- ✨ Dynamic Invoice Generation
+- 📦 Automatic Stock Deduction
+- 📄 Export to PDF
+- 📊 Sales Dashboard & Stats
+
+## Tech Stack
+- **Frontend:** React, Tailwind CSS, Lucide-React
+- **Backend:** Node.js, Express, MongoDB, Mongoose
 ## Available Scripts
 
 In the project directory, you can run:
